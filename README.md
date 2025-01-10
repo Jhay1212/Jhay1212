@@ -6,7 +6,7 @@ You can reach me on the following social media:
 Facebook:  Jhay Rivera
 Instagram: @jhaykunn
 Discord: Zeef
-Gmail: zeefjhay@gmail.com
+Gmail: rjhay1070@gmail.com
 - ⚡ Fun fact: I fell in love with programming because of certain youtube crackhead named Michael Reeves 
 
 <!---
