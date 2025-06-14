@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jose Alfonso Rivera</h1>
-<p align="center">💻 Passionate about building web & desktop applications with clean, functional code.</p>
+<p align="center">💻 I'm an aspiring Web Developer/Software Developer with a <b>Strong passion </b> on <i>programming </i>and problem solving.</p>
+<p align="center">I thrive tackling challenges, continuously improving my self and my skills. I'm eager to contrbute to meaningful projects and collaborate with like-minded professionals.</p>
 
 ---
 
@@ -12,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" height="30" alt="Visual Basic" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s" height="30" alt="NextJS" />
 
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
